@@ -1,0 +1,67 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.container{
+  position: relative;
+  border: solid 2px black;
+  width: 900px;
+  height: 500px;
+  left: 250px;
+  top: 50px;
+}
+
+.titulo{
+  position: relative;
+  background: yellow;
+  text-align: center;
+  border: solid 1px black
+}
+
+.caja1 {
+  float: left;
+  height: 460px;
+  width: 298px;
+  border: solid 1px black;
+}
+.caja2 {
+  float: left;
+  height: 460px;
+  width: 298px;
+  border: solid 1px black;
+}
+
+.caja3 {
+  float: right;
+  height: 460px;
+  width: 298px;
+  border: solid 1px black;
+}
+
+.footer{
+  width: 900px;
+  background: yellow;
+  position: absolute;
+  top: 482px;
+  text-align: center;
+}
+
+h2{
+  position: relative;
+  text-align: center;
+  top: 40px;
+}
+
+.parrafo{
+  position: relative;
+  margin: 8px;
+  padding: 2px;
+  top: 80px;
+}
+
+.imagen1{
+  position: relative;
+  top: 100px;
+  left: 15px;
+}
+
